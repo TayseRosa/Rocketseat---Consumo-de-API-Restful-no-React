@@ -12,7 +12,7 @@
 ---
 # 🛠 Projeto Rocketseat Ignite - Trilha React Native - goFinance
 
-<img src="https://github.com/TayseRosa/IgniteTrilhaReactNativeChapterII/blob/main/src/assets/goFinances.png" width="100%" height="auto" />
+<img src="" width="100%" height="auto" />
 
 ## Iniciando o projeto
 
